@@ -28,3 +28,6 @@ seperti berikut :
 Setiap Researcher memiliki total penelitian yang akan menjadi dasar untuk gaji. Researcher digaji
 sebesar 3 juta + (total penelitian * 2 juta). Untuk Manager memiliki banyak pekerja yang dimanage,
 dan digaji sebesar 3 juta + (banyak pekerja * 1 juta).
+
+Hasil:
+![Screenshot 2023-06-27 230541](https://github.com/mrchndfyzaa/salary-project/assets/31769603/0fed56e6-cb81-44cb-acca-04b0fa678a27)
